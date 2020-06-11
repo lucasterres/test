@@ -1,0 +1,6 @@
+﻿uBTM GEE,uBTM GEE Smoothed,Terrset UM,eBTM,sBTM
+uBTM GEE,0,0.23,0.28,0.35,0.44
+uBTM GEE Smoothed,0.23,0,0.31,0.38,0.49
+Terrset UM,0.28,0.31,0,0.30,0.41
+eBTM,0.35,0.38,0.30,0,0.28
+sBTM,0.44,0.49,0.41,0.28,0

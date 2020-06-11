@@ -1,0 +1,6 @@
+﻿uBTM GEE,UBTM GEE Smoothed,Terrset UM,eBTM,sBTM
+uBTM GEE,0,4,6,6,6
+uBTM GEE Smoothed,4,0,8,6,6
+Terrset UM,6,8,0,12,12
+eBTM,6,6,12,0,4
+sBTM,6,6,12,4,0
